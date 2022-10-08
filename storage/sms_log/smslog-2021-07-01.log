@@ -1,0 +1,7 @@
+[2021-07-01 15:44:53] local.INFO: #log# {"ip":"127.0.0.1","date":"2021-07-01 15:44:53","cusid":"1001-0027","tel":"66819094220","code":"6434","sms_return_id":"1875830","sms_return_str":"OK"} 
+[2021-07-01 15:45:53] local.INFO: #log# {"ip":"127.0.0.1","date":"2021-07-01 15:45:53","cusid":"1001-0027","tel":"66819094220","code":"8350","sms_return_id":"1875831","sms_return_str":"OK"} 
+[2021-07-01 15:47:02] local.INFO: #log# {"ip":"127.0.0.1","date":"2021-07-01 15:47:02","cusid":"1001-0027","tel":"668918106321","code":"6655","sms_return_id":"1875833","sms_return_str":"OK"} 
+[2021-07-01 16:48:35] local.INFO: #log# {"ip":"127.0.0.1","date":"2021-07-01 16:48:35","cusid":"1001-0027","tel":"66819094220","code":"7624","sms_return_id":"0","sms_return_str":"ERROR:NoUsr"} 
+[2021-07-01 16:49:13] local.INFO: #log# {"ip":"127.0.0.1","date":"2021-07-01 16:49:13","cusid":"1001-0027","tel":"66819094220","code":"8950","sms_return_id":"0","sms_return_str":"ERROR:NoUsr"} 
+[2021-07-01 16:50:22] local.INFO: #log# {"ip":"127.0.0.1","date":"2021-07-01 16:50:22","cusid":"1001-0027","tel":"66819094220","code":"3199","sms_return_id":"0","sms_return_str":"ERROR:NoUsr"} 
+[2021-07-01 16:51:20] local.INFO: #log# {"ip":"127.0.0.1","date":"2021-07-01 16:51:20","cusid":"1001-0027","tel":"66819094220","code":"5781","sms_return_id":"0","sms_return_str":"ERROR:NoUsr"} 
